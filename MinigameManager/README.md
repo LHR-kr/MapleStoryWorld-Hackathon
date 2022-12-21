@@ -45,6 +45,11 @@ MSW는 인스턴스 맵이 생성될 때 맵 리스트에 있는 모든 인스�
         return
     end**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b874c7a5-e910-4e75-b1dc-cb764103aa71/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/82368502/208840957-a1e9e27f-4f10-4799-9202-30ffc7f65ea7.png)
     
 4. 미니게임이 종료되는 부분에서 매니저의 MinigameEnd함수를 호출한다. 해당 함수는 미니게임 종료와 관련된 로직과 UI를 담당한다. 함수의 인자로 레드팀이 득점한 점수, 블루팀이 득점한 점수를 넣어준다.
+
+![image](https://user-images.githubusercontent.com/82368502/208841016-05298e58-406b-40a9-8ca7-2afd2d9c5e1a.png)
+![image](https://user-images.githubusercontent.com/82368502/208841071-0e6f86a4-9a61-4d08-ae76-7bd4222680d4.png)
+
+
