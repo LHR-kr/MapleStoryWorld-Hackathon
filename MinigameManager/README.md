@@ -27,12 +27,12 @@ MSW는 인스턴스 맵이 생성될 때 맵 리스트에 있는 모든 인스�
 ### 3. MinigameManager의 사용
 
 1. 인스턴스 맵에 minigameManager 모델을 추가한다.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a70748b-a2fb-4eee-935b-b342a42f1f5d/Untitled.png)
+![image](https://user-images.githubusercontent.com/82368502/208840655-2a44b7e2-4c6e-4b8d-9bb7-abe76f164b0a.png)
 
 2. 필요에 따라 컴포넌트에 minigameManager 프로퍼티를 추가한다. ( 예 : OnUpdate에서 주기적으로 무언가를 처리하는 컴포넌트 , 해당 맵에서만 작동해야 하는 컴포넌트 등)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9601fa3-57a9-445a-9c76-bdb02cfdea19/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/82368502/208840718-8da73f35-7522-4f98-baa7-fbf7ff4b7a5c.png)
+
+   
     
 3. OnUpdate 함수 안에 도입부에 다음의 코드를 추가한다. 아래의 코드는 만약 해당 미니게임이 시작되기 전이거나 끝난 이후면 OnUpdate 함수에서 아무 동작도 하지 않도록 제어한다.
     
