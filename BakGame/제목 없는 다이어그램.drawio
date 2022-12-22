@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T14:17:26.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Whale/3.18.154.7 Safari/537.36" etag="pfR28Hm4vlpXk159KfjA" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T14:17:42.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Whale/3.18.154.7 Safari/537.36" etag="G3c3KCJaPD3kc1_CTFZC" version="20.7.4" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
     <mxGraphModel dx="1388" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -57,10 +57,10 @@
         <mxCell id="78961159f06e98e8-52" value="+ Collision&lt;span style=&quot;color: rgb(36, 41, 47); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; background-color: rgb(255, 255, 255);&quot;&gt;Event&lt;/span&gt;(&lt;font face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot; color=&quot;#24292f&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Entity AttakcBall&lt;/span&gt;&lt;/font&gt;):&lt;br&gt;+ Bak HP decrease()&lt;br&gt;+ MinigameEnd()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-43" vertex="1">
           <mxGeometry y="60" width="350" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b94bc138ca980ef-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="78961159f06e98e8-77" target="235556782a83e6d0-1" edge="1">
+        <mxCell id="b94bc138ca980ef-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.542;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AzYQ8KStDOYGmMoPH-ec-2" target="235556782a83e6d0-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="680" />
+              <mxPoint x="581" y="680" />
               <mxPoint x="190" y="680" />
             </Array>
           </mxGeometry>
