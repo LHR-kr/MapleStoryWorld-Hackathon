@@ -1,3 +1,24 @@
+--@ BeginProperty
+--@ SyncDirection=None
+boolean hasBall = "false"
+--@ EndProperty
+
+--@ BeginProperty
+--@ SyncDirection=All
+number forceX = "12"
+--@ EndProperty
+
+--@ BeginProperty
+--@ SyncDirection=All
+number forceY = "5"
+--@ EndProperty
+
+--@ BeginEntityEventHandler
+--@ Scope=Server
+--@ Target=self
+--@ EventName=PlayerActionEvent
+HandlePlayerActionEvent
+{
 -- Parameters
 local ActionName = event.ActionName
 local PlayerEntity = event.PlayerEntity
@@ -24,3 +45,6 @@ if ActionName == "Attack" and self.hasBall == true then
 	
 
 end
+}
+--@ EndEntityEventHandler
+
