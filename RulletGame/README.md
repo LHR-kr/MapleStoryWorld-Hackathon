@@ -6,3 +6,5 @@
 
 ## 플로우차트
 ![image](https://user-images.githubusercontent.com/82368502/209423080-fc19948d-d05f-4694-8f8a-2b5a53752b3a.png)
+
+## 게임플레이 스크린샷
